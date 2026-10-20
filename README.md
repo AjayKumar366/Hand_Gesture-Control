@@ -44,13 +44,13 @@ volume, depending on the selected control mode.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+   https://github.com/AjayKumar366/Hand_Gesture-Control.git
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd YOUR_REPOSITORY
+   cd Hand_Gesture-Control
    ```
 
 3. Create and activate a virtual environment:
@@ -95,6 +95,3 @@ volume, depending on the selected control mode.
 - Additional gesture-based actions
 - Performance and responsiveness improvements
 
-## License
-
-Choose a license before distributing or reusing this project.
